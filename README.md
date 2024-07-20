@@ -13,7 +13,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/text-to-morse-code.git
+git clone https://github.com/Abdullah-Khan-Dev/Text-to-Morse-Code.git
 cd text-to-morse-code
 Run the Script:
 
